@@ -6,6 +6,6 @@ function Alert(){
 function color(){
 
     const nombre = document.querySelector("danger")
-    
+    ///
 
 }
